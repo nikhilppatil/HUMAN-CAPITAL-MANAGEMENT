@@ -84,6 +84,16 @@ WHERE
             employee_data)
 ORDER BY SALARY DESC;
 
+/* How to display employees with a specific Staff Type (e.g., Contract)? */
+
+SELECT * FROM employee_data
+WHERE `Staff Type` = 'NA';
+
+SELECT * FROM employee_data
+WHERE `Staff Type` LIKE '%L'
+
+
+
 
 
 
