@@ -1,0 +1,20 @@
+CREATE DATABASE HCM;
+
+USE HCM;
+
+SELECT * FROM hcm;
+
+DROP TABLE hcm;
+
+SELECT COUNT(*) FROM hcm;
+
+
+
+
+
+
+
+
+
+
+
