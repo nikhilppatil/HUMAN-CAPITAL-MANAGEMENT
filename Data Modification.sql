@@ -13,8 +13,15 @@ select * from employee_data;
 set sql_safe_updates = 0;
 
 UPDATE employee_data
-SET `Date of Joining` = STR_TO_DATE(`Date of Joining`, '%d-%m-%Y');
+SET `Date of Joining` = NULL
+WHERE `Date of Joining` = '';
+
+UPDATE employee_data
+SET `Date of Joining` = STR_TO_DATE(`Date of Joining`, '%d-%m-%Y')
+WHERE `Date of Joining` IS NOT NULL;
 
 ALTER TABLE employee_data
 MODIFY `Date of Joining` DATE;
+
+
 
