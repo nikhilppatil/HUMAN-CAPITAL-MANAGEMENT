@@ -35,5 +35,13 @@ UPDATE employee_data
 SET MOBILE = null
 WHERE Department = 'IT';
 
+UPDATE employee_data
+SET Quarter = "Q1"
+WHERE `Staff Type` = "NG-VACATIONAL";
+
+UPDATE employee_data
+SET Quarter = "Q2"
+WHERE `Staff Type` = "NG-NON-VACATIONAL";
+
 
 

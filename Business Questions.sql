@@ -126,6 +126,12 @@ WHERE `Pay Rule` = (
 );
 
 
+/* How to list employees from a specific Quarter? */
+
+SELECT * FROM employee_data
+WHERE QUARTER = "Q2";
+
+
 
 
 
