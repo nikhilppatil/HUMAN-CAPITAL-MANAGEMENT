@@ -31,5 +31,9 @@ UPDATE employee_data
 SET EmployeeStatus = "ACTIVE"
 WHERE EmployeeStatus IS NULL;
 
+UPDATE employee_data
+SET MOBILE = null
+WHERE Department = 'IT';
+
 
 

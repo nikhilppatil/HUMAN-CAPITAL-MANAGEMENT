@@ -97,6 +97,36 @@ WHERE `Staff Type` LIKE '%L';
 SELECT * FROM employee_data
 WHERE EmployeeStatus = "ACTIVE";
 
+/* How to show employees with a missing Mobile number? */
+
+SELECT 
+    NAME, Mobile
+FROM
+    employee_data
+WHERE
+    MOBILE IS NULL;
+    
+/* How to find employees without Personal Email ID? */
+
+SELECT NAME, `Personal Email ID` FROM employee_data
+WHERE `Personal Email ID` LIKE '%ORG';
+
+/* How to find employees belonging to a specific Pay Rule? */
+
+SELECT * FROM employee_data;
+
+SET @PAY_RULE = "CONSOLIDATED PAY";
+
+SELECT NAME
+FROM employee_data
+WHERE `Pay Rule` = (
+    SELECT `Pay Rule` 
+    FROM employee_data 
+    WHERE NAME LIKE "CONSOLIDATED PAY%"
+);
+
+
+
 
 
 
