@@ -90,7 +90,16 @@ SELECT * FROM employee_data
 WHERE `Staff Type` = 'NA';
 
 SELECT * FROM employee_data
-WHERE `Staff Type` LIKE '%L'
+WHERE `Staff Type` LIKE '%L';
+
+/*  How to find employees who are Active? */
+
+SELECT * FROM employee_data
+WHERE EmployeeStatus = "ACTIVE";
+
+
+
+
 
 
 

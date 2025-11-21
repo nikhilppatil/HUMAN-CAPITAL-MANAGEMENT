@@ -23,5 +23,13 @@ WHERE `Date of Joining` IS NOT NULL;
 ALTER TABLE employee_data
 MODIFY `Date of Joining` DATE;
 
+UPDATE employee_data
+SET EmployeeStatus  = NULL
+WHERE EmployeeStatus = "";
+
+UPDATE employee_data
+SET EmployeeStatus = "ACTIVE"
+WHERE EmployeeStatus IS NULL;
+
 
 

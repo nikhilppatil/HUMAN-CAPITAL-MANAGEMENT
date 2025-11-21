@@ -12,6 +12,9 @@ SELECT COUNT(*) FROM hcm;
 
 SELECT * FROM employee_data;
 
+SELECT NAME,`Pay Status`, EmployeeStatus FROM employee_data
+WHERE EmployeeStatus IS NULL;
+
 
 
 
