@@ -1,0 +1,15 @@
+AIML
+
+Generative AI
+
+LLM: Large language model/ Large image model
+
+Using LLM we create generative ai application that is ChatBot
+
+
+
+AI agents: For the specific task we calling something from the LLM 
+
+Agentic AI: converting big task
+
+

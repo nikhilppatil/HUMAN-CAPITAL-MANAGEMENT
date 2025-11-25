@@ -1,0 +1,201 @@
+Computer Engineering
+
+===================================================================================================================================
+
+Module 1: Computer & Hardware Foundations
+
+1.1 Basics of Computer Engineering
+
+What is a computer?
+
+Categories: Mobile, PC, Servers, Embedded
+
+Binary system (bits, bytes)
+
+1.2 Computer Architecture
+
+CPU, ALU, CU
+
+Memory hierarchy: Registers, Cache, RAM, HDD/SSD
+
+Bus structures
+
+Motherboard components
+
+1.3 Hardware Interfaces
+
+Input/Output devices
+
+Networking cards
+
+Sensors & embedded hardware basics
+
+1.4 Operating Phases
+
+How a computer boots
+
+BIOS/UEFI
+
+Kernel loading
+
+===================================================================================================================================
+
+Module 2: Operating Systems (Conceptual, Non-Coding)
+
+2.1 OS Fundamentals
+
+What is an operating system?
+
+Windows vs Linux vs Mac
+
+Kernel vs user space
+
+2.2 Process Management
+
+Programs vs processes
+
+Multithreading & multitasking
+
+Scheduling algorithms (conceptual)
+
+2.3 Memory Management
+
+Virtual memory
+
+Paging, segmentation
+
+Memory leaks
+
+2.4 File Systems
+
+NTFS, EXT4, FAT
+
+File permissions
+
+2.5 System Security Basics
+
+Authentication vs authorization
+
+Firewalls
+
+Malware types
+
+===================================================================================================================================
+
+Module 3: Networking Fundamentals
+
+3.1 Networking Basics
+
+What is a network?
+
+LAN, WAN, intranet, internet
+
+3.2 Protocols
+
+TCP/IP model
+
+HTTP/HTTPS
+
+DNS, DHCP
+
+FTP, SSH
+
+3.3 Network Devices
+
+Router vs switch
+
+Firewall
+
+Load balancers
+
+3.4 Cloud Networking Basics
+
+VPC concepts
+
+Subnets
+
+VPN
+
+Cloud firewalls
+
+===================================================================================================================================
+
+Module 4: Software Engineering Foundations (Zero/Minimal Coding)
+
+4.1 How Software Works
+
+Source code → compilation → binary
+
+APIs (REST, SOAP)
+
+Microservices basics
+
+Version control: Git (concepts)
+
+4.2 SDLC Models
+
+Waterfall
+
+Agile (Scrum/Kanban)
+
+DevOps lifecycle
+
+4.3 Software Design Concepts
+
+Functional vs non-functional requirements
+
+UML diagrams
+
+Sequence diagrams
+
+ERD diagrams
+
+Architecture patterns (client-server, MVC, microservices)
+
+4.4 Quality Assurance Basics
+
+Manual vs automated testing
+
+Test cases, test plans
+
+UAT, SIT, regression testing
+
+===================================================================================================================================
+
+Module 5: Databases & Data Foundations
+
+5.1 Database Concepts
+
+What is a database?
+
+RDBMS vs NoSQL
+
+Structured vs unstructured data
+
+5.2 Database Design
+
+Tables, rows, columns
+
+Keys (primary, foreign)
+
+Normalization
+
+Indexes
+
+5.3 Querying (Low-code view)
+
+Basics of SQL queries (only essential reading)
+
+Views, stored procedures (conceptual)
+
+5.4 Big Data Basics
+
+Data lakes
+
+Data warehouses
+
+ETL/ELT concepts
+
+Tools overview: Hadoop, Spark, Snowflake (concepts only)
+
+===================================================================================================================================

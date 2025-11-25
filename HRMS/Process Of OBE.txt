@@ -1,0 +1,9 @@
+Process Of OBE
+
+Admin Login:
+
+Prerequsiistes: 1) Data Migration Utilitiy (if institute using the examination module so we can feteched that data from examination module so there is auto completetion process)
+
+2) If first time instaite implementating the process so we have to add all the steup into the system
+
+ \

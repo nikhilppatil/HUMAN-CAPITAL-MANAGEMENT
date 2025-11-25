@@ -1,0 +1,123 @@
+📅 90-Day Free HRMS Learning Roadmap
+
+🔹 Phase 1: HRMS & Core HR Concepts (Day 1–15)
+
+🎯 Goal: Understand HR processes + basic HRMS workflows.
+
+Week 1
+
+Learn core HR concepts: Payroll, Leave & Attendance, Talent Management, Recruitment.
+
+Resource: Oracle HCM Cloud Overview (Oracle Free Learning)
+
+YouTube: HRMS basics (OrangeHRM demo videos).
+
+
+Week 2
+
+Install a free/open-source HRMS (OrangeHRM or Odoo HR) → just to practice.
+
+Hands-on: Create employee records, try leave requests, payroll entry.
+
+Resource: OrangeHRM Free.
+
+
+
+
+---
+
+🔹 Phase 2: Oracle Fusion HCM (Day 16–45)
+
+🎯 Goal: Build functional knowledge of Oracle Fusion HCM.
+
+Week 3
+
+Learn Global HR module (employee records, org structure, jobs & positions).
+
+Resource: Oracle Global HR Learning Path
+
+YouTube: Tech Leads IT – Oracle HCM Basics.
+
+
+Week 4
+
+Learn Payroll & Absence Management.
+
+Resource: Oracle Payroll Free Learning
+
+Hands-on (Free Tier): Create a test Oracle Cloud account → explore navigation.
+
+
+Week 5
+
+Learn Talent Management & Performance modules.
+
+Resource: Oracle Talent Management Free Learning.
+
+Blog: Apps2Fusion – Oracle HCM tutorials.
+
+
+
+
+---
+
+🔹 Phase 3: Workday HCM (Day 46–75)
+
+🎯 Goal: Understand Workday basics + reporting.
+
+Week 6
+
+Learn Workday navigation & basics (org structure, staffing models).
+
+YouTube: Workday HCM Basics – ERP Cloud Training.
+
+
+Week 7
+
+Learn Workday Business Processes (hire, terminate, promote, transfer).
+
+Resource: Workday Training Channel on YouTube.
+
+
+Week 8
+
+Learn Workday Reporting (Workday Report Writer).
+
+Resource: LinkedIn Learning (1-month free trial: Workday HCM Reporting course).
+
+
+
+
+---
+
+🔹 Phase 4: HR Analytics + Resume Building (Day 76–90)
+
+🎯 Goal: Add value with analytics & prepare for job applications.
+
+Week 9
+
+Learn HR Analytics concepts (headcount reports, attrition analysis, performance dashboards).
+
+Resource: Coursera HR Analytics (Free Audit Mode).
+
+Try connecting Excel/Power BI with sample HR datasets (aligns with your BA + SQL skills).
+
+
+Week 10
+
+Build a mini portfolio:
+
+Create HRMS flow charts (recruitment, payroll).
+
+Create sample reports in Excel/Power BI (employee attrition, leave trends).
+
+
+Draft a resume highlighting:
+
+Business Analyst + HRMS exposure
+
+Oracle HCM Cloud learning
+
+Workday HCM basics
+
+HR Analytics reporting.
