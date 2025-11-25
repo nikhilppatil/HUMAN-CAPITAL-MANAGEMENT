@@ -21,7 +21,11 @@ SET `Date of Joining` = STR_TO_DATE(`Date of Joining`, '%d-%m-%Y')
 WHERE `Date of Joining` IS NOT NULL;
 
 ALTER TABLE employee_data
-MODIFY `Date of Joining` DATE;
+MODIFY `Date of Increment` DATE;
+
+UPDATE employee_data
+SET `Date of Increment` = STR_TO_DATE(`Date of Increment`, '%d-%m-%Y')
+WHERE `Date of Increment` IS NOT NULL;
 
 UPDATE employee_data
 SET EmployeeStatus  = NULL
